@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michiel</h1>
 <h3 align="center">An aspiring developer. If I'm not working on my own projects, I'm learning new material on Udemy.</h3>
 
-- 🔭 I’m currently working on **a script to track my installed games for and whatever could use automating at work. an automated uninstall process.**
+- 🔭 I’m currently working on **my crypto bot**
 
-- 🌱 I’m currently learning **Data science & Machine Learning in Python by App Brewery on Udemy**
+- 🌱 I’m currently learning **Complete linear algebra: theory and implementation in code / Data science & Machine Learning in Python by App Brewery on Udemy**
 
 - 📫 How to reach me **mvtklooster@hotmail.com**
 
