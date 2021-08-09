@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my crypto bot**
 
-- 🌱 I’m currently learning **Complete linear algebra: theory and implementation in code / Data science & Machine Learning in Python by App Brewery on Udemy**
+- 🌱 I’m currently learning **Complete linear algebra: theory and implementation in code / Data science & Machine Learning in Python on Udemy**
 
 - 📫 How to reach me **mvtklooster@hotmail.com**
 
