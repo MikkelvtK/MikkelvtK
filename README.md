@@ -2,7 +2,6 @@
 
 
 <h3 align="left">Hi there! 🥸</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MikkelvtK&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelvtK&theme=tokyonight" />
 
 
